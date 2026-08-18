@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/wonderbell-anime-halfbody-v5.png" width="240" alt="Cute Wonderbell anime-tech half-body character" />
+  <img src="assets/wonderbell-anime-playful-v6.png" width="240" alt="Playful Wonderbell anime-tech half-body character" />
 </p>
 
 <h1 align="center">Hi, I'm wonderbell&nbsp; 👋</h1>
