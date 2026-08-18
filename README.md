@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/wonderbell-anime-tech-v2.png" width="180" alt="Wonderbell anime-tech character emblem" />
+  <img src="assets/wonderbell-anime-cute-v3.png" width="180" alt="Cute Wonderbell anime-tech character" />
 </p>
 
 <h1 align="center">Hi, I'm wonderbell&nbsp; 👋</h1>
