@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="assets/agent-orchestration-banner.png" width="100%" alt="AI agent orchestration network" />
+  <img src="assets/agent-orchestration-anime-v2.png" width="100%" alt="Anime AI agent systems builder at an orchestration console" />
 </p>
 
 <p align="center">
-  <img src="assets/wonderbell-agent-core.png" width="180" alt="Wonderbell agent core emblem" />
+  <img src="assets/wonderbell-anime-tech-v2.png" width="180" alt="Wonderbell anime-tech character emblem" />
 </p>
 
 <h1 align="center">Hi, I'm wonderbell&nbsp; 👋</h1>
