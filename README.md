@@ -1,69 +1,54 @@
 <p align="center">
-  <img src="assets/avatar.png" width="96" alt="wonderbell" />
+  <img src="assets/agent-orchestration-anime-v2.png" width="100%" alt="Anime AI agent systems builder at an orchestration console" />
 </p>
 
-<h1 align="center">Hi, I'm wonderbell.</h1>
+<p align="center">
+  <img src="assets/wonderbell-agent-observatory-v12.png" width="240" alt="Wonderbell AI agent builder in a luminous observatory" />
+</p>
+
+<h1 align="center">Hi, I'm wonderbell&nbsp; 👋</h1>
 
 <p align="center">
-  <strong>I build AI agent systems for real-world work.</strong><br />
-  我构建能进入真实业务流程的 AI Agent 系统。
+  <strong>I build AI agent systems for real-world work.</strong>
 </p>
 
 <p align="center">
   <code>evidence → judgment → action → result</code>
 </p>
 
-## What I build
+## A little about me
 
-My projects span commerce, product research, creative operations, knowledge workflows, and software delivery. The shared focus is the system around the model:
+I am interested in the part that begins after a model gives a good answer: connecting reasoning to tools, state, permissions, people, and outcomes.
 
-- stateful workflows that can pause, recover, and continue;
-- tools and permissions with explicit operating boundaries;
-- traceable evidence, revisions, decisions, and outputs;
-- human approval where cost, risk, or publication is involved.
+My work moves across commerce, research, creative production, knowledge workflows, and software delivery. Different domains, same question:
 
-## Selected systems
+> How do we turn intelligence into dependable action?
 
-### EcomForge · Agent-assisted commerce
+## How I like to build
 
-<img src="assets/ecomforge-release.png" alt="EcomForge listing workflow" width="100%" />
+- **Evidence before confidence.** Important decisions should be explainable.
+- **State before magic.** Work should survive pauses, failures, and handoffs.
+- **Boundaries before autonomy.** Agents need clear tools, permissions, and stopping points.
+- **History before overwrite.** Inputs, decisions, edits, and results should leave a trail.
+- **Reality before polish.** A small system that works in practice beats a perfect-looking demo.
 
-Turns product truth into traceable Amazon listing and creative-production workflows. Product revisions, working drafts, reviews, releases, and historical outputs remain connected instead of being overwritten.
+## Right now
 
-`Private Beta` · `Selected components planned for open source`
+- Building reusable foundations for stateful, tool-using agents
+- Testing them inside real operating workflows
+- Open-sourcing selected building blocks as they become ready
+- Writing down the choices, failures, and lessons behind the systems
 
-### Image Factory · Creative operations
+## A note to fellow builders
 
-<img src="assets/image-factory-batches.png" alt="Image Factory production workspace" width="100%" />
+The interesting part of an agent is not just what it can say. It is what it can carry forward, what it is allowed to change, how it recovers, and whether someone can understand what happened afterward.
 
-A production workspace for multi-model generation, durable jobs, batch operations, human review, and cost-aware execution.
+That is the work I am here to explore.
 
-`Production` · `Private case study`
-
-### PickScout Agent · Evidence-driven research
-
-Transforms market signals, unit economics, and operating constraints into explainable product-opportunity decisions instead of opaque recommendations.
-
-`Product validation` · `Open-source direction under review`
-
-### Agent systems research · Knowledge and method
-
-<img src="assets/knowledge-map.png" alt="Agent Harness knowledge map" width="100%" />
-
-Working notes on agent harnesses, context, tools, permissions, state, recovery, and verification—turning model reasoning into dependable action.
-
-`Writing in progress`
-
-## Open source
-
-- [gpt56-superpowers](https://github.com/bells0/gpt56-superpowers) — lean, outcome-first delivery skills for GPT-5.6 Sol and Codex. `MIT`
-- **Wonderbell Skills** — reusable Codex skills and operating principles. `Preparing for open source`
-
-## Current focus
-
-Building reusable Agent-system foundations, then validating them in concrete operating contexts. I write about the decisions, evidence, and failures behind the systems—not only the final interface.
+<br />
 
 <p align="center">
-  <a href="https://bells0.github.io">Portfolio & field notes</a> ·
-  <a href="https://github.com/bells0?tab=repositories">Repositories</a>
+  <a href="https://bells0.github.io"><strong>Portfolio & Field Notes</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/bells0?tab=repositories">Code</a>
 </p>
