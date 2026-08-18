@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="assets/avatar.png" width="96" alt="wonderbell" />
+  <img src="assets/agent-orchestration-banner.png" width="100%" alt="AI agent orchestration network" />
+</p>
+
+<p align="center">
+  <img src="assets/wonderbell-agent-core.png" width="180" alt="Wonderbell agent core emblem" />
 </p>
 
 <h1 align="center">Hi, I'm wonderbell&nbsp; 👋</h1>
