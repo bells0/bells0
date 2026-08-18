@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/wonderbell-geek-topdown-v9.png" width="240" alt="Wonderbell female-geek character reaching upward in a top-down view" />
+  <img src="assets/wonderbell-geek-garden-v10.png" width="240" alt="Wonderbell female-geek character seated in a luminous agent garden" />
 </p>
 
 <h1 align="center">Hi, I'm wonderbell&nbsp; 👋</h1>
