@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/wonderbell-geek-garden-v10.png" width="240" alt="Wonderbell female-geek character seated in a luminous agent garden" />
+  <img src="assets/wonderbell-agent-observatory-v12.png" width="240" alt="Wonderbell AI agent builder in a luminous observatory" />
 </p>
 
 <h1 align="center">Hi, I'm wonderbell&nbsp; 👋</h1>
