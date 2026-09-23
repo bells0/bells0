@@ -9,41 +9,39 @@
 <h1 align="center">Hi, I'm wonderbell&nbsp; 👋</h1>
 
 <p align="center">
-  <strong>I build AI agent systems for real-world work.</strong>
+  <strong>I build practical AI workflows for commerce, research, and software delivery.</strong>
 </p>
 
 <p align="center">
   <code>evidence → judgment → action → result</code>
 </p>
 
-## A little about me
+## What I am working on
 
-I am interested in the part that begins after a model gives a good answer: connecting reasoning to tools, state, permissions, people, and outcomes.
+I am building an Amazon-first commerce practice and the tools that support it. The current loop is product research, supplier and cost evidence, Listing images and copy, and feedback from real operations. AI helps with research and production; consequential business decisions stay with people.
 
-My work moves across commerce, research, creative production, knowledge workflows, and software delivery. Different domains, same question:
+I also build Codex tools for agent coordination and software delivery. Across both areas, I care about the same question:
 
-> How do we turn intelligence into dependable action?
+> How do we turn a useful answer into an action someone can inspect, approve, and learn from?
 
-## How I like to build
+## Selected work
 
-- **Evidence before confidence.** Important decisions should be explainable.
-- **State before magic.** Work should survive pauses, failures, and handoffs.
-- **Boundaries before autonomy.** Agents need clear tools, permissions, and stopping points.
-- **History before overwrite.** Inputs, decisions, edits, and results should leave a trail.
-- **Reality before polish.** A small system that works in practice beats a perfect-looking demo.
+| Project | What it does | Access |
+| --- | --- | --- |
+| [PickScout Agent](https://github.com/bells0/pickscout-agent) | Evidence-led Amazon US FBA product research and decision support | Open source |
+| [Agentic Superpowers](https://github.com/bells0/agentic-superpowers) | Focused Codex skills for scoped, verifiable software delivery | Open source |
+| [Agent Teamworks](https://github.com/bells0/agent-teamworks) | Persistent project teams with clear roles and continuity | Open source |
+| [Wonderbell Skills](https://github.com/bells0/wonderbell-skills) | Personal Codex skills and operating guidance | Open source |
+| Listing Optimizer | Produces Listing images and copy from product facts | Private project |
 
-## Right now
+The [portfolio](https://bells0.github.io) has more context, including private work and earlier experiments.
 
-- Building reusable foundations for stateful, tool-using agents
-- Testing them inside real operating workflows
-- Open-sourcing selected building blocks as they become ready
-- Writing down the choices, failures, and lessons behind the systems
+## How I work
 
-## A note to fellow builders
-
-The interesting part of an agent is not just what it can say. It is what it can carry forward, what it is allowed to change, how it recovers, and whether someone can understand what happened afterward.
-
-That is the work I am here to explore.
+- Keep source facts, estimates, recommendations, decisions, and actions distinct.
+- Give agents explicit tools, permissions, and stopping points.
+- Keep enough state and evidence to resume work and explain the result.
+- Prefer small workflows tested in use over broad platform claims.
 
 <br />
 
